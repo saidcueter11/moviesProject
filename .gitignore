@@ -105,4 +105,4 @@ dist
 
 #api key
 
-public/apiKey.js
+apiKey.js
