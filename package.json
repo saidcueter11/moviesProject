@@ -1,0 +1,23 @@
+{
+  "name": "moviesproject",
+  "version": "1.0.0",
+  "description": "Movies project in the API Plazti Course",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/saidcueter11/moviesProject.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/saidcueter11/moviesProject/issues"
+  },
+  "homepage": "https://github.com/saidcueter11/moviesProject#readme",
+  "dependencies": {
+    "tailwindcss": "^3.0.24"
+  }
+}
