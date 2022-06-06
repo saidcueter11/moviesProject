@@ -16,8 +16,5 @@
   "bugs": {
     "url": "https://github.com/saidcueter11/moviesProject/issues"
   },
-  "homepage": "https://github.com/saidcueter11/moviesProject#readme",
-  "dependencies": {
-    "tailwindcss": "^3.0.24"
-  }
+  "homepage": "https://github.com/saidcueter11/moviesProject#readme"
 }
