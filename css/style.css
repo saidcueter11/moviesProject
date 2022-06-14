@@ -264,7 +264,7 @@ select option {
 .trendingPreview-btn {
   border-radius: 8px;
   height: 32px;
-  width: 72px;
+  width: fit-content;
 }
 
 .trendingPreview-movieList , .liked-movieList{
