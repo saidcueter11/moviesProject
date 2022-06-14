@@ -256,6 +256,12 @@ function getLikedMovies() {
     const likedMovies = likedMovieList();
     const moviesArray = Object.values(likedMovies);
 
-    createMovies(moviesArray,likedMovieListArticle, {lazyLoad: true, clean: true});
+    if(moviesArray.length > 0) {
+        createMovies(moviesArray,likedMovieListArticle, {lazyLoad: true, clean: true})
+    }
+    else{
+        likedMovieSection.classList.add('inactive');
+    }
+    
 
 }
